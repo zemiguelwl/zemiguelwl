@@ -1,6 +1,6 @@
 # 💻 Zé Miguel
 
-![Role](https://img.shields.io/badge/Digital_Craftsman-Developer/Creator-3a3a3a?style=for-the-badge&logoColor=white)
+![Role](https://img.shields.io/badge/Estudante_de_Engenharia_Informática-ESTG_%40_Politécnico_do_Porto-3a3a3a?style=for-the-badge&logoColor=white)
 
 Estudante de Engenharia Informática a explorar o mundo do código uma linha de cada vez.  
 Gosto de testar, errar, corrigir e melhorar.  
