@@ -9,7 +9,7 @@ Neste perfil encontras tanto projetos académicos como experiências pessoais, u
 
 ---
 
-**🛠️ Tecnologias & Ferramentas**
+**🛠️ Linguagens & Ferramentas**
 
 Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus projetos académicos e pessoais.
 
