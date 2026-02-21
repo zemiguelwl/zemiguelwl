@@ -2,6 +2,8 @@
 
 ![Role](https://img.shields.io/badge/Estudante_de_Engenharia_Informática-ESTG_Politécnico_do_Porto-3a3a3a?style=for-the-badge)
 
+![Role](https://img.shields.io/badge/Digital_Craftsman-Developer/Creator-3a3a3a?style=for-the-badge&logoColor=white)
+
 Estudante de Engenharia Informática a explorar o mundo do código uma linha de cada vez.  
 Gosto de testar, errar, corrigir e melhorar.  
 Neste perfil encontras tanto projetos académicos como experiências pessoais, um registo honesto do meu crescimento técnico.
