@@ -1,4 +1,4 @@
-# 💻 Zé Miguel
+## 💻 Zé Miguel
 
 ![Role](https://img.shields.io/badge/Estudante_de_Engenharia_Informática_%40_ESTG_Politécnico_do_Porto-6b6b6b?style=for-the-badge)
 
@@ -6,8 +6,9 @@ Estudante de Engenharia Informática a explorar o mundo do código uma linha de 
 Gosto de testar, errar, corrigir e melhorar.  
 Neste perfil encontras tanto projetos académicos como experiências pessoais, um registo honesto do meu crescimento técnico.
 
+<br>
 
-## 🛠️ Tecnologias & Ferramentas
+**🛠️ Tecnologias & Ferramentas**
 
 Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus projetos académicos e pessoais.
 
