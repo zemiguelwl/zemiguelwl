@@ -12,5 +12,6 @@ Neste perfil encontras tanto projetos académicos como experiências pessoais, u
 **🛠️ Linguagens & Ferramentas**
 
 Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus projetos académicos e pessoais.
-
+<p>
 <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,nodejs,angular,mysql,git,mongodb" />
+</p>
