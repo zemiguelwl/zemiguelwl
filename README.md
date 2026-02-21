@@ -9,6 +9,8 @@ Neste perfil encontras tanto projetos académicos como experiências pessoais, u
 
 ## 🛠️ Tecnologias & Ferramentas
 
+Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus projetos académicos e pessoais.
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
