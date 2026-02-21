@@ -1,6 +1,6 @@
 # 💻 Zé Miguel
 
-![Role](https://img.shields.io/badge?style=for-the-badge&label=Estudante%20de%20Engenharia%20Inform%C3%A1tica&message=%40%20ESTG%20-%20Polit%C3%A9cnico%20do%20Porto&color=3a3a3a)
+![Role](https://img.shields.io/badge?style=for-the-badge&label=Estudante%20de%20Engenharia%20Inform%C3%A1tica&message=ESTG%20-%20Polit%C3%A9cnico%20do%20Porto&color=3a3a3a)
 
 Estudante de Engenharia Informática a explorar o mundo do código uma linha de cada vez.  
 Gosto de testar, errar, corrigir e melhorar.  
