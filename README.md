@@ -14,3 +14,13 @@ Neste perfil encontras tanto projetos académicos como experiências pessoais, u
 Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus projetos académicos e pessoais.
   
 <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,nodejs,angular,mysql,git,mongodb" />
+
+---
+
+**📫 Contactos**
+<p>
+<a href="mailto:zemigueldev@gmail.com?subject=Contacto%20via%20GitHub" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jos%C3%A9-carneiro-438091365/" target="_blank" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
