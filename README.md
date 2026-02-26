@@ -23,8 +23,7 @@ Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus 
 <img src="https://skillicons.dev/icons?i=angular" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mssql" />
-
+<img src="icons/sql-server.png" width="48" />
 ---
 
 **📫 Contactos**
