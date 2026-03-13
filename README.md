@@ -15,7 +15,6 @@ Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus 
 <br>
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=js" />
