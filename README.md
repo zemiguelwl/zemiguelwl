@@ -19,7 +19,6 @@ Estas são as linguagens e ferramentas que aprendi e usei, até agora, nos meus 
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=angular" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="icons/sql-server.png" width="47.5" />
